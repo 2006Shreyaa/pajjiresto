@@ -1,0 +1,187 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+    font-family:  'Arial Narrow Bold', sans-serif;
+    background-image: radial-gradient(rgba(0, 255, 195, 0.69), rgba(9, 146, 243, 0.794), rgba(79, 0, 128, 0.68));
+    border-radius:  15px 50px 30px 5px;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color: black;
+     
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: black;
+}
+.search{
+    height: 40px;
+    width: 20rem;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+    border: 2px solid rgb(248,26, 92);
+}
+.btn0{
+    height: 40px;
+    width: 50%;
+    outline: none;
+    border: none;
+    background: rgba(89, 53, 180, 0.952) ;
+    color: white;
+    border-radius:60px ;
+    font-weight: 700;
+}
+.main{
+    background: url( *
+    {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .navbar-brand{
+        font-size: 2rem;
+        color: black;
+        font-family:  'Arial Narrow Bold', sans-serif;
+        background-image: radial-gradient(rgba(0, 255, 195, 0.69), rgba(9, 146, 243, 0.794), rgba(79, 0, 128, 0.68));
+        border-radius:  15px 50px 30px 5px;
+        font-weight: bold;
+    }
+    .navbar-brand:hover{
+        color: black;
+         
+    }
+    .nav-link{
+        margin-right: 10px;
+        margin-left: 10px;
+        color: black;
+        text-transform: uppercase;
+    }
+    .nav-link:hover{
+        color: black;
+    }
+    .search{
+        height: 40px;
+        width: 20rem;
+        border-radius: 60px;
+        outline: none;
+        margin-right: -35px;
+        border: 2px solid rgb(248,26, 92);
+    }
+    .btn0{
+        height: 40px;
+        width: 50%;
+        outline: none;
+        border: none;
+        background: rgba(89, 53, 180, 0.952) ;
+        color: white;
+        border-radius:60px ;
+        font-weight: 700;
+    }
+    .main{
+        background: url( pexels-ella-olsson-572949-1640777.jpg) no-repeat;
+        background-size: cover;
+        height: 100vh;
+        background-position: 50% 50%;
+        width: 100%;
+    }
+    .main h1{
+        font-size: 4rem;
+        font-weight: 700;
+        text-shadow: 2px 2px rgb(13, 143, 173);
+    }
+    .btn1{
+        height: 45px;
+        width: 35%;
+        border: none;
+        outline: none;
+        background-color: rgb(248,26, 92);
+        color: white;
+        font-weight: 700;
+        border-radius: 60px;
+    }
+    .img-luid{
+        height: 80px;
+        width: 80px;
+    }
+    .btn1:hover{
+      background-color:rgb(156, 14, 56) ;
+      transition: 0.5s;
+    }
+    h1{
+        font-weight:700 ;
+    }
+    .d-block{
+        height: 70vh;
+        
+    }
+    .card:hover{
+        box-shadow: -1px 2px 18px 10px rgba(90,81,81,0.52);
+    -webkit-box-shadow: -1px 2px 18px 10px rgba(90,81,81,0.52);
+    -moz-box-shadow: -1px 2px 18px 10px rgba(90,81,81,0.52);
+    transition: 0.5s ;
+    }
+    .apple{
+        background:  url(https://c8.alamy.com/comp/2MGJ1PT/little-girl-face-or-thinking-hand-on-chin-on-isolated-red-background-in-games-innovation-studio-question-or-fun-vision-smile-happy-or-curious-2MGJ1PT.jpg)no-repeat;
+        background-size: cover;
+        height: 80vh;
+        width: 100%;
+    }) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+    text-shadow: 2px 2px rgb(13, 143, 173);
+}
+.btn1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: rgb(248,26, 92);
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+.img-luid{
+    height: 80px;
+    width: 80px;
+}
+.btn1:hover{
+  background-color:rgb(156, 14, 56) ;
+  transition: 0.5s;
+}
+h1{
+    font-weight:700 ;
+}
+.d-block{
+    height: 70vh;
+    
+}
+.card:hover{
+    box-shadow: -1px 2px 18px 10px rgba(90,81,81,0.52);
+-webkit-box-shadow: -1px 2px 18px 10px rgba(90,81,81,0.52);
+-moz-box-shadow: -1px 2px 18px 10px rgba(90,81,81,0.52);
+transition: 0.5s ;
+}
+.apple{
+    background:  url(pexels-ash-craig-122861-376464.jpg)no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
